@@ -7,5 +7,5 @@ Let's organize your time
 
 ### defaults:
 
-work_time: 25 minutes
-break_time: 5 minutes
+work time: 25 minutes
+break time: 5 minutes
