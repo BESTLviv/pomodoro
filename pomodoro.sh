@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Helps you stay productive using pomodoro technique.
-# The first argument is the focus time length.
-# The second argument is the break length.
+# The first argument is the focus time length in minutes.
+# The second argument is the break length in minutes.
 
 #time in seconds
 work_time=${1:-25}*60
