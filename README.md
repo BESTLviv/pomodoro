@@ -8,4 +8,5 @@ Let's organize your time
 ### defaults:
 
 work time: 25 minutes
+
 break time: 5 minutes
